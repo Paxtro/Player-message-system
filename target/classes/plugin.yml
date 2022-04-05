@@ -1,0 +1,9 @@
+name: Player-message-system
+version: '1.0.0'
+main: com.paxtro.test.Main
+api-version: 1.16
+authors: [ Paxtro ]
+description: Messaging system
+commands:
+  message:
+  reply:

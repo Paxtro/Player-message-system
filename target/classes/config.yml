@@ -1,0 +1,8 @@
+# This is my first public plugin I am just dipping my toes in plugin development so don't expect much yet!
+#
+#
+#
+# sets time of when the player should wake up
+Time: 6000
+# The message that broadcast to the player
+Message: '§6Rise and Shine sleeply heads!'
